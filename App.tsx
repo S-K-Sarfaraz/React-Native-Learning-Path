@@ -28,8 +28,8 @@ import React from 'react';
 // import DinamicRadio from './components/DinamicRadio';
 
 // Redux implementation
-import Header from './components/Header';
-import Product from './components/Product';
+// import Header from './components/Header';
+// import Product from './components/Product';
 
 const App = () => {
   return (
@@ -61,8 +61,8 @@ const App = () => {
       {/* <Using_Ref_in_input /> */}
       {/* <Async_Storage_implementation /> */}
 
-      <Header />
-      <Product />
+      {/* <Header /> */}
+      {/* <Product /> */}
     </View>
   );
 };
